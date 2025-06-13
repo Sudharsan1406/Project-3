@@ -20,3 +20,15 @@ As a Data Analyst at an urban mobility analytics firm, my mission is to unlock i
 from real-world taxi trip data to enhance fare estimation systems and promote pricing 
 transparency for passengers. This project focuses on analyzing historical taxi trip 
 records collected from a metropolitan transportation network. 
+
+## Real-World Use Cases: 
+  1. Ride-Hailing Services – Fare estimate before ride booking. 
+  2. Driver Incentive Systems – Suggest optimal locations and times for higher 
+  earnings. 
+  3. Urban Mobility Analytics – Fare trends by time, location, and trip type. 
+  4. Travel Budget Planners – Predict estimated trip fare for tourists. 
+  5. Taxi Sharing Apps – Dynamic pricing for shared rides.
+
+## Problem Type: 
+  Supervised Machine Learning – Regression 
+  Target Variable: total_amount 
